@@ -246,5 +246,5 @@ The overview page is shown in the [Dashboard Preview](#dashboard-preview) at the
 ![Product Details](Product%20Details.png)
  
 -- 
-This project was built by following the **AnalyzeWithAli** data analyst portfolio tutorial. The original project is at [analyzewithaliportfolio.wordpress.com](https://analyzewithaliportfolio.wordpress.com/home-2/).
+This project was built by following the **AnalyzeWithAli** data analyst portfolio tutorial.
  
